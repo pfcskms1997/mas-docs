@@ -44,7 +44,8 @@
   | Position | :crown: / BackEnd | Mobile | Data | Mobile | Data |
 
 ## 2. 프로젝트 설계
-   ### 1) Figma [(link)](https://www.figma.com/file/LvrAoMzdEhUhPH0OxJWI1r/MAS?node-id=253%3A139)
+   ### 1) Figma
+   https://www.figma.com/file/LvrAoMzdEhUhPH0OxJWI1r/MAS?node-id=253%3A139
    ### 2) ERD [(link)](README-asset/erd.png)
    ### 3) 아키텍처
    ![architecture](README-asset/architecture.png)
