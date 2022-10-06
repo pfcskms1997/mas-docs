@@ -1,4 +1,4 @@
-![ColorsBanner](README-asset/colors-banner.png)
+![MASLogo](README-asset/Logo.png)
 
 <br>
 
