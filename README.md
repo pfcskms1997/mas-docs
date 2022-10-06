@@ -1,4 +1,4 @@
-<div text-align="center"><img src="README-asset/Logo.png" alt="MAS-Logo" width="30%" a></div>
+<p align="center"><img src="README-asset/Logo.png" alt="MAS-Logo" width="35%" a></p>
 
 ## 목차
 [1. 프로젝트 개요](#1-프로젝트-개요)
