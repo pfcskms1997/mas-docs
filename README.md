@@ -1,4 +1,4 @@
-![MASLogo](README-asset/Logo.png)
+<img src="README-asset/Logo.png" alt="MAS-Logo" width="30%">
 
 <br>
 
