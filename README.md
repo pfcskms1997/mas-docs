@@ -10,16 +10,14 @@
 [2. 프로젝트 설계](#2-프로젝트-설계)
 - [Figma](#1-figma)
 - [ERD](#2-erd-link)
-- [아키텍처](#3-아키텍처)
-- [REST API](#4-rest-api-link)
+- [개발환경](#3-개발환경)
+- [아키텍처](#4-아키텍처)
+- [REST API](#5-rest-api-link)
 
 [3. 프로젝트 파일 구조](#3-프로젝트-파일-구조)
 
 
 [4. 프로젝트 산출물](#4-프로젝트-산출물)
-  - [발표자료](#1-발표자료)
-  - [UCC](#2-ucc)
-  - [포팅 매뉴얼](#3-포팅-매뉴얼)
 
 <br>
 
@@ -45,9 +43,10 @@
    ### 1) Figma
    https://www.figma.com/file/LvrAoMzdEhUhPH0OxJWI1r/MAS?node-id=253%3A139
    ### 2) ERD [(link)](README-asset/erd.png)
-   ### 3) 아키텍처
+   ### 3) 개발환경 [(link)](README-asset/environment.pdf)
+   ### 4) 아키텍처
    ![architecture](README-asset/architecture.png)
-   ### 4) REST API [(link)](README-asset/rest-api-docs.pdf)
+   ### 5) REST API [(link)](README-asset/rest-api-docs.pdf)
      
 
 ## 3. 프로젝트 파일 구조
@@ -87,6 +86,7 @@ app
       └── util
 ```
 ## 4. 프로젝트 산출물
-  ### 1) [발표자료](exec/발표자료.pptx)
-  ### 2) [UCC](http://www.youtube.com)
-  ### 3) [포팅 매뉴얼](exec/포팅매뉴얼.pdf)
+  - [발표자료](exec/대전_2반_B208_발표자료.pptx)
+  - [UCC](exec/공통PJT_대전_2반_B208_UCC경진대회.mp4)
+  - [포팅 매뉴얼](exec/포팅_매뉴얼.pdf)
+  - [시연 시나리오](exec/공통PJT_대전2반_B208_시연시나리오.pdf)
